@@ -470,15 +470,20 @@ nltk.download('punkt')
    
    **Option B - Download Datasets:**
    
+   ⚠️ **Note:** Some files are too large for GitHub (>25MB limit)
+   
    For **NLP (Twitter Gender)**:
    - Visit [Twitter Gender Dataset](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification)
-   - Download `gender-classifier-DFE-791531.csv`
-   - Place in `input/` directory
+   - Download `gender-classifier-DFE-791531.csv` (7.9 MB)
+   - ✅ Already included in repository
    
    For **MovieLens**:
    - Visit [MovieLens 20M Dataset](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset)
-   - Download `movie.csv` and `rating.csv`
-   - Place in `input/` directory
+   - Download required files:
+     - `movie.csv` (1.5 MB) - ✅ Included in repository
+     - `rating.csv` (674 MB) - ❌ **Download required** (too large for GitHub)
+     - `genome_scores.csv` (209 MB) - ❌ **Download required** (too large for GitHub)
+   - Place downloaded files in repository root directory
    
    For **Iris**: Built-in sklearn dataset (no download needed)
    
