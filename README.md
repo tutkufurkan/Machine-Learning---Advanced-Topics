@@ -4,7 +4,6 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-Latest-green.svg)](https://www.nltk.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/dandrandandran2093/machine-learning-advanced-topics)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/tutkufurkan/Machine-Learning---Advanced-Topics)
 
